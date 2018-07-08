@@ -3,7 +3,7 @@ This Open Hardware project is about the development of a solar box.
 We want to provide a compact, mobile and modular electric power generator. An alternative to the diesel generator.
 The power specifications are chosen to supply a mini house, a boat, a caravan, or any other off-grid devices like a music station on an open-air.
 
-The aim is that everybody is possible to rebuild the solar box at home or at his/her favourite fablab.
+The aim is to empower everybody to rebuild the solar box at home or at his/her favourite fablab.
 
 
 <!--![Libre Solar Box Layout](/media_files/libre_solar_box_layout.png)-->
